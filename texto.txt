@@ -1,0 +1,4 @@
+**** ARQUITECTURA WEB ***************
+
+Esto es una prueba de la lectura de un archivo mediante Node.js 
+para la materia Arquitectura Web :)
